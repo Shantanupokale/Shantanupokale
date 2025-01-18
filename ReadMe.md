@@ -9,10 +9,5 @@ Hi ! 👋🏻 I am Shannx<br>🤝 I’m looking for help with Devs<br>🌱 I’m
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shantanupokale&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanupokale&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shantanupokale&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Shantanupokale&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
